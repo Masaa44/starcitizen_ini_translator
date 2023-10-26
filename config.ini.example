@@ -1,0 +1,6 @@
+[deepl]
+api_url = DEEPL_API_URL
+api_key = YOUR_DEEPL_API_TOKEN
+
+[settings]
+target_language = TARGET_LANGUAGE (eg: FR)
