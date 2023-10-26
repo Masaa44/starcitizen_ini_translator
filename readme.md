@@ -14,7 +14,7 @@ This script is specifically designed for fans and players of Star Citizen! It ut
 1. Clone the repository to your local machine:
 
     ```
-    git clone https://github.com/sc-translator/starcitizen_ini_translator
+    git clone https://github.com/Masaa44/starcitizen_ini_translator.git
     ```
 
 
